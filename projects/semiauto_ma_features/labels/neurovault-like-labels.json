@@ -21,7 +21,8 @@
     },
     {
         "color": "#dbdb8d",
-        "name": "Modality-fMRI-BOLD"
+        "name": "Modality-fMRI-BOLD",
+        "shortcut_key": "m"
     },
     {
         "color": "#aec7e8",
